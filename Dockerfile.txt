@@ -1,0 +1,2 @@
+FROM maven:3.2-jdk-8-onbuild
+CMD ["C:/Users/Administrator/workspace/Vibha2/Microservice_explorecali_tourPackage.git/trunk" , "-jar" , "target/explorecaliTourPackage-0.0.1-SNAPSHOT.jar"]
